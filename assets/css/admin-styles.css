@@ -1,0 +1,29 @@
+#l6-options-form #l6-logo {
+	width: 150px;
+	max-width: 100%;
+}
+
+#l6-options-form{
+	padding: 10px 15px;
+}
+
+#l6-options-form legend {
+	font-size: 16px;
+	font-weight: 700;
+}
+
+#l6-options-form fieldset {
+	border:0;
+	box-sizing: border-box;
+	width:100%;
+	margin-top:20px;
+}
+
+#l6-options-form table,
+#l6-options-form textarea {
+	width: 100%;
+}
+
+#l6-options-form textarea {
+	font-family: monospace;
+}
